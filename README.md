@@ -1,4 +1,15 @@
-# BarsAndDots
-Interactive Ancient Mayan calendar conversion and date calculation
+# Bars and Dots - The Web Application - Matt Neel
+### A Maya Calendric Computer
+###### Based on the original Bars and Dots DOS Program by Sid Hollander
 
-This is an online, web app version of the original Bars And Dots (Copyright 1989-1994, Rev 1.13) program written in MS-DOS by Sid Hollander. It uses a different format than the original program but preserves and expands on the functionality. It also uses Node.js / React / MUI framework and Webpack/Babel software. This site does not accept nor store user information. This site is also generally under construction as we add new features and frequently reassess accuracy. For best experience, view this site on a laptop / desktop; limited support for smartphones. Questions and feedback can be sent to info@mayan-calendar.com.
+# Web Application
+[See Bars and Dots Web Application](https://www.barsanddots.com)
+
+# History/Story
+Original Bars & Dots author Sid Hollander and Director of Maya Exploration Center Ed Barnhart work with Pennsylvania College of Technology (Penn College) in Williamsport, PA to educate math students in Maya Math.  At the same time, there began to be a growing need to update the original Bars & Dots program.  It was currently only available on the MS-DOS operating system, requiring users to either find a emulator or keep old computers that still ran the operating system.  In addition, the interface was far behind and lacked overall accessibility.
+
+Paths crossed when Ed and Sid reached out to Penn College in search of a student that would be willing to create a modern version of Bars & Dots.  Ethan Yoder, a Software Developer & Information Management major, accepted this project and met in Merida, Mexico where Sid resides, to plan and design this modern version of Bars & Dots.  The parties agreed on creating a web application.  This allowed the app to be available to all regardless of operating system. Ethan designed the majority of the code and layout. Matt Neel, a senior data analyst in Seattle with 
+some developer experience, took over the project and managed the changes visible today.  
+
+# Technologies Used
+Bars & Dots - The Web Application is a React.js web app that uses webpack to minimize it's production code.  The front-end was mainly implemented with the Material UI framework.

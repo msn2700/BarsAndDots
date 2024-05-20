@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a1612cb6.js",
+    "static/media/Eb.png": "/static/media/Eb.4b36418e5cd6354f3c54.png",
+    "static/media/ISIGChen.png": "/static/media/ISIGChen.a955201ce4d4efdee1a6.png",
+    "static/media/ISIGKayab.png": "/static/media/ISIGKayab.670d57672cacf7588ec2.png",
+    "static/media/ISIGUo.png": "/static/media/ISIGUo.c98f309be28243014c89.png",
+    "static/media/ISIGXul.png": "/static/media/ISIGXul.d124f313d13bb7cb0ecd.png",
+    "static/media/ISIGPop.png": "/static/media/ISIGPop.040cdf492f3362ed182b.png",
+    "static/media/ISIGPax.png": "/static/media/ISIGPax.aa328b054a24e6f8784f.png",
+    "static/media/ISIGMol.png": "/static/media/ISIGMol.91897e5a9d4d89106d1d.png",
+    "static/media/ISIGCumku.png": "/static/media/ISIGCumku.0ac27098ac346e5e6e68.png",
+    "static/media/ISIGZotz.png": "/static/media/ISIGZotz.5910aaab96c3744ab023.png",
+    "static/media/ISIGZac.png": "/static/media/ISIGZac.4ef7b9ae67b9abcf5542.png",
+    "static/media/ISIGMuan.png": "/static/media/ISIGMuan.e71299b31108258bf0ff.png",
+    "static/media/ISIGYaxkin.png": "/static/media/ISIGYaxkin.236ba2952618d21749f6.png",
+    "static/media/ISIGKankin.png": "/static/media/ISIGKankin.978e4e9f714a3ec19b57.png",
+    "static/media/ISIGTzec.png": "/static/media/ISIGTzec.6b1bee2f4438d9e6156a.png",
+    "static/media/ISIGYax.png": "/static/media/ISIGYax.2dd2b1d2ebde88102584.png",
+    "static/media/ISIGCeh.png": "/static/media/ISIGCeh.7efd4a6d9b05db901522.png",
+    "static/media/ISIGUayeb.png": "/static/media/ISIGUayeb.fed0b90da068ddfc33ab.png",
+    "static/media/ISIGMac.png": "/static/media/ISIGMac.c974966ab5475d01cd7b.png",
+    "static/media/ISIGZip.png": "/static/media/ISIGZip.0e6098189ac4708046a7.png",
+    "index.html": "/index.html",
+    "main.a1612cb6.js.map": "/static/js/main.a1612cb6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a1612cb6.js"
+  ]
+}
